@@ -1,0 +1,14 @@
+
+
+#uvicorn[standard]
+#numpy
+matplotlib
+pandas 
+datetime
+yfinance
+streamlit
+streamlit-authenticator
+requests
+pytest
+httpx
+plotly
