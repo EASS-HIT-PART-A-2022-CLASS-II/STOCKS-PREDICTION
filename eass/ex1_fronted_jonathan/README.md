@@ -41,9 +41,13 @@ Developed by:
 - SciKit-Learn - python library that enable us to use machine-learning.
 
 
-## _Installation_
+## _FlowChart_
 ```mermaid
 graph TD;
+    FrontEnd -->BackEnd;
+    BackEnd -->ML;
+    ML -->BackEnd;
+    BackEnd -->FrontEnd
 
 ```
 
